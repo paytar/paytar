@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oğuz Paytar</h1>
 <h3 align="center">Jr. front-End Developer from TURKEY/Ankara</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paytar" alt="paytar" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
