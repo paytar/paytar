@@ -1,5 +1,4 @@
 <h1 align="center">Oğuz Paytar</h1>
- Download my CV
 <a href="https://github.com/user-attachments/files/24083962/oguzhnpaytar.pdf">Download My Resume</a>
 <h3 align="center">Jr. front-End Developer from TURKEY/Ankara</h3>
 <h3 align="left">Languages and Tools:</h3>
