@@ -1,5 +1,6 @@
 <h1 align="center">Oğuz Paytar</h1>
-<h1 align="center">[oguzhnpaytar.pdf](https://github.com/user-attachments/files/24083875/oguzhnpaytar.pdf)
+<h1 align="center">[Download my CV](./Oguzhan_Paytar_CV.pdf)
+
 </h1>
 <h3 align="center">Jr. front-End Developer from TURKEY/Ankara</h3>
 <h3 align="left">Languages and Tools:</h3>
